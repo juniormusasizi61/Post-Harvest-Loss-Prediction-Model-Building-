@@ -10,5 +10,7 @@ We shall follow this approach in this project
 - cleaning the data using ['label encoder'](https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/) for  numerical data columns
 - Model building
 - Ineference
+
+the datasets used are the [Training dataset]("C:\Users\JOSHUA\Downloads\Training.csv") and the [Testing dataset]("C:\Users\JOSHUA\Downloads\Testing.csv")
  
 
